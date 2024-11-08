@@ -1,6 +1,6 @@
 # Glassmorphic Card with Click Effect
 
-This repository contains a Dart project that demonstrates a glassmorphic card with a click effect.
+This repository contains a Dart project for Flutter App that demonstrates a glassmorphic card with a click effect.
 
 ![Glassmorphic Card](https://github.com/user-attachments/assets/a22c8c8b-f16b-4def-b01c-d25c01ae5b22)
 
