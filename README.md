@@ -41,14 +41,6 @@ Here is a screen recording demonstrating the glassmorphic card with click effect
 
 2. Open your browser and go to `http://localhost:8080` to see the glassmorphic card in action.
 
-## Contributing
-
-We welcome contributions! Please see our [contributing guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any inquiries or issues, please open an issue on GitHub or contact canopus23.
