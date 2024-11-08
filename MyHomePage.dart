@@ -20,7 +20,7 @@ class MyHomePage extends StatelessWidget {
                 title: 'Square Card',
                 width: 150,
                 height: 150,
-                content: 'csdcdvd',
+                content: 'This is a Square card',
               ),
               const SizedBox(height: 20),
               GlassmorphicCard(
